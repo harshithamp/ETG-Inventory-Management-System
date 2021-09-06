@@ -11,6 +11,8 @@ A software development using python which provides a easy way to track thr produ
 record.json file ,sales.json files ,AddNewItems code ,Billing code
 
 
+# Tools Used
+In this project google colab  is used and the code is written in python.
 # Overview 
 It is based on dictionary and json file. 
 The bill is genrated using billing code.
